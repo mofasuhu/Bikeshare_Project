@@ -1,7 +1,7 @@
 import time
 import pandas as pd
 import os
-os.chdir('D:\Projects\Bikeshare_project')
+os.path.abspath(os.path.dirname('bikeshare.py'))
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
