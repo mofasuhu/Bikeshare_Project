@@ -1,1 +1,2 @@
-python D:\Projects\Bikeshare_project\bikeshare.py
+pipenv run python bikeshare.py
+pause
