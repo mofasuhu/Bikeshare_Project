@@ -5,5 +5,3 @@ node_modules
 notes/
 **/*-todo.md
 .ipynb_checkpoints/
-run.bat
-run.ps1
